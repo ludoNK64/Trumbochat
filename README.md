@@ -3,7 +3,6 @@
 Un tchat qui est simple, pas très utile, mais c'est suffisant pour comprendre le fonctionnement des websockets avec Socket.io
 
 
-## Démonstration
 
 Vous pouvez voir et utiliser une version de démonstration à cette adresse : [Page de démonstration](http://tchat.alex-d.fr)
 Les avatars sont ceux utilisé sur Gravatar, et donc récupérés grâce à l'email entré lors de la connexion.
